@@ -1,5 +1,5 @@
 
-如果说 Lilian Weng 给了你 AI 的“数学灵魂”，Sebastian Raschka 给了你“代码骨架”，SemiAnalysis 给了你“微观的硅片账本”，那么 **Asianometry 则是向你展示这台庞大机器底层的“物理学极点与制造业血泪史”**。
+**Asianometry 则是向你展示这台庞大机器底层的“物理学极点与制造业血泪史”**。
 
 以下是对该专栏（及其同名超高频 YouTube 频道）的深度解剖报告：
 
